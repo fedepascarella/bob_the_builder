@@ -1,0 +1,11 @@
+fastapi>=0.103.1
+uvicorn>=0.23.2
+websockets>=11.0.3
+streamlit>=1.27.0
+websocket-client>=1.6.2
+openai-whisper>=20231117
+gtts>=2.3.2
+audio-recorder-streamlit>=0.0.8
+agno>=0.1.0
+torch>=2.0.0
+python-dotenv>=1.0.0
